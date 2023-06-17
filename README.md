@@ -1,4 +1,4 @@
-Projeto realizado para o mundo 1 do Curso Desenvolvimento Full Stack da Estácio.
+Projeto realizado para missão certificação do Mundo 1 do Curso Desenvolvimento Full Stack da Estácio.
 
 O projeto é um gerenciador de acessos a determinados sistemas por perfis e usuários. Ele serve basicamente pra indicar conflitos em determinados acessos e não deixar com que um mesmo usuário tenha acesso a perfis/sistemas conflitantes. Esses conflitos dependendo da aplicação pode gerar fraudes nas empresas e portanto devem ser gerenciados com exatidão e cuidado, portanto esse projeto gira em torno de uma Matriz de segregação de funções e de controle de riscos dizendo qual usuário pode ou nao ter acesso aquele determinado perfil.
 
